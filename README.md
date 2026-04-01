@@ -10,11 +10,11 @@ This is my first quantitative finance project developed in Python. It explores t
 
 ## Visual Results
 ### Strategy Performance
-![Final Performance](./Figure_7) 
+![Final Performance](./Figure_7.png) 
 *The Inverted Adaptive Strategy vs Buy & Hold benchmark.*
 
 ### Volatility Regimes
-![Volatility Regimes](./Figure_4)
+![Volatility Regimes](./Figure_4.png)
 *Market segmentation into High/Low volatility states.*
 
 ## Key Takeaways
